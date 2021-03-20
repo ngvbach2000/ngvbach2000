@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ngvbach2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ngvbach2000" height="30" width="40" /></a>
-<a href="https://instagram.com/ffireice.14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ffireice_14" height="30" width="40" /></a>
+<a href="https://instagram.com/ffireice_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ffireice_14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
