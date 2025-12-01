@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Bach Nguyen</h1>
-<h3 align="center">Software Engineering at FPT Software</h3>
+<h3 align="center">Software Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
